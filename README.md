@@ -14,3 +14,4 @@ This course delivers the fundamentals of well-formed, semantic HTML markup and C
 2. CSS
 3. Figma
 4. Responsive Web Design
+5. Visual Studio Code
